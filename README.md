@@ -1,6 +1,6 @@
-C++ Implementations of the Programming Practices in the Nice Book:
+# C++ Implementations of the Programming Practices in the Nice Book:
 
-Reinforcement Learning: An Introduction
+# Reinforcement Learning: An Introduction
 
 Richard S. Sutton 
 and Andrew G. Barto
