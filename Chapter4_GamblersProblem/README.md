@@ -1,4 +1,4 @@
-Examle 4.3
+###Examle 4.3
 
 This example uses the "Value Iteration" algorithm to compute the opital policies and the optimal value function of the Gambler's Problem.
 
